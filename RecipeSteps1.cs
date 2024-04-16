@@ -193,8 +193,7 @@ public class Recipe
 
     private bool IsValidUnit(string unit)
     {
-        // Add your custom validation for valid units of measurement here
-        // For simplicity, let's assume any non-empty string is a valid unit
+        
         return !string.IsNullOrWhiteSpace(unit);
     }
 }
