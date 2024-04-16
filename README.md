@@ -12,7 +12,7 @@ This console application lets users manage recipes, including ingredients and st
 ## Setup
 
 1. Clone the repository to your computer.
-2. Open the `ST10377479 - POE.sln` solution file in Visual Studio.
+2. Open the `RecipeManagementApp1.sln` solution file in Visual Studio.
 3. Build and launch the application.
 
 ## How to Use
