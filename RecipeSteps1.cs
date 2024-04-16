@@ -22,7 +22,7 @@ public class Recipe
         }
         Console.ResetColor();
         ingredients = new Ingredient[ingredientCount];
-        originalIngredients = new Ingredient[ingredientCount]; // Initialize originalIngredients array
+        originalIngredients = new Ingredient[ingredientCount]; 
 
         for (int i = 0; i < ingredientCount; i++)
         {
