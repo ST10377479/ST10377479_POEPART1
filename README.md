@@ -34,7 +34,7 @@ This console application lets users manage recipes, including ingredients and st
 2. Follow the prompts to enter the number of ingredients and steps.
 3. Input details for each ingredient and step as prompted.
 
-### Scaling a Recipe
+### Displaying a Recipe
 1. Choose option 2
 2. The recipe details will be dsiaplayed after input
 
