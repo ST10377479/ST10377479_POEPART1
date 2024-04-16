@@ -16,7 +16,7 @@ public class Recipe
         if (!int.TryParse(Console.ReadLine(), out ingredientCount) || ingredientCount <= 0)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Error: Please enter a valid positive number for the number of ingredients.");
+            Console.WriteLine("Error: Please enter a valid positive integar for the number of ingredients.");
             Console.ResetColor();
             return;
         }
