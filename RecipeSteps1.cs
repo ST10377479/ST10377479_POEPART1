@@ -162,7 +162,7 @@ public class Recipe
         }
         else
         {
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("\nQuantities are already at original values.");
             Console.ResetColor();
         }
