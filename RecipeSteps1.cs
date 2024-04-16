@@ -68,7 +68,7 @@ public class Recipe
             Console.ResetColor();
 
             ingredients[i] = new Ingredient { Name = name, Quantity = quantity, Unit = unit };
-            originalIngredients[i] = new Ingredient { Name = name, Quantity = quantity, Unit = unit }; // Store original values
+            originalIngredients[i] = new Ingredient { Name = name, Quantity = quantity, Unit = unit }; 
         }
 
         Console.WriteLine("\nEnter the number of steps:");
