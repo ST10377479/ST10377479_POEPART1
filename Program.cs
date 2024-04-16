@@ -64,7 +64,7 @@ class Program
                     continueRunning = false;
                     break;
                 default:
-                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Invalid choice. Please try again.");
                     Console.ResetColor();
                     break;
